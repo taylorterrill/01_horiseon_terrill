@@ -1,1 +1,1 @@
-# 01_horiseon_terrill
+# Coding Bootcamp Challenge 1 - Horiseon SEO
